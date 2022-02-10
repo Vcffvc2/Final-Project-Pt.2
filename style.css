@@ -1,0 +1,60 @@
+header{
+  font-family: monospace;
+  padding: 15px;
+  margin: 15px;
+}
+
+body{
+  margin:0px;
+  background-color: rgb(255, 255, 255);
+  border: 14px solid;
+  border-color:rgb(207, 197, 52) rgb(202, 22, 22) rgb(255, 255, 255) blue;
+  //margin: 10px 20px;
+  margin-top: 15px;
+  font-family: monospace;
+  
+  
+}
+
+
+h3{
+  color:rgb(179, 25, 38);
+
+}
+
+h1{
+  margin:5px;
+  letter-spacing: 3px;
+  text-transform:uppercase;
+  padding: 30px;
+}
+
+nav a:hover{
+  background-color: rgb(128, 222, 253);
+  color: rgb(226, 32, 48);
+
+p{
+  padding: 5px;
+}
+
+.font_blue{
+  color:rgb(6, 6, 112);
+}
+
+.font_size_12{
+  font-size: 20px;
+}
+
+.font_size_11{
+  font-size: 17.5px
+
+h4{
+
+  style="text-align:center;"
+
+}
+
+table,th,td{
+  border:2px solid green;
+  border-collapse:separate;
+  empty-cells: hide;
